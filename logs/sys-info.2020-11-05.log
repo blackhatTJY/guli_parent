@@ -1,0 +1,46 @@
+16:39:10.508 [main] INFO  c.g.e.EduApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+16:39:15.262 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8001"]
+16:39:15.263 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:39:15.263 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.27]
+16:39:15.490 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:39:16.247 [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+16:39:17.346 [main] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+16:39:19.870 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+16:39:19.897 [main] INFO  c.n.c.s.URLConfigurationSource - [<init>,122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+16:39:19.921 [main] INFO  c.n.c.s.URLConfigurationSource - [<init>,122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+16:39:24.539 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,147] - Context refreshed
+16:39:24.857 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,150] - Found 1 custom documentation plugin(s)
+16:39:25.074 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+16:39:25.668 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8001"]
+16:39:26.651 [main] INFO  c.g.e.EduApplication - [logStarted,61] - Started EduApplication in 19.304 seconds (JVM running for 21.87)
+16:54:59.137 [main] INFO  c.g.e.EduApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+16:55:02.253 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8001"]
+16:55:02.253 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:55:02.254 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.27]
+16:55:02.492 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:55:03.477 [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+16:55:04.966 [main] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+16:55:06.688 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+16:55:06.714 [main] INFO  c.n.c.s.URLConfigurationSource - [<init>,122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+16:55:06.720 [main] INFO  c.n.c.s.URLConfigurationSource - [<init>,122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+16:55:09.619 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,147] - Context refreshed
+16:55:09.735 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,150] - Found 1 custom documentation plugin(s)
+16:55:09.900 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+16:55:10.610 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8001"]
+16:55:11.252 [main] INFO  c.g.e.EduApplication - [logStarted,61] - Started EduApplication in 16.353 seconds (JVM running for 18.467)
+17:12:58.374 [http-nio-8001-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:31:36.706 [main] INFO  c.g.e.EduApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+17:31:41.476 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8001"]
+17:31:41.477 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:31:41.477 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.27]
+17:31:41.725 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:31:42.415 [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+17:31:42.859 [main] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+17:31:44.944 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+17:31:45.000 [main] INFO  c.n.c.s.URLConfigurationSource - [<init>,122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+17:31:45.026 [main] INFO  c.n.c.s.URLConfigurationSource - [<init>,122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+17:31:49.469 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,147] - Context refreshed
+17:31:49.763 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,150] - Found 1 custom documentation plugin(s)
+17:31:49.957 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+17:31:50.528 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8001"]
+17:31:51.181 [main] INFO  c.g.e.EduApplication - [logStarted,61] - Started EduApplication in 17.365 seconds (JVM running for 25.502)

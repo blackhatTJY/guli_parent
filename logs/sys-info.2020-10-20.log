@@ -1,0 +1,14 @@
+11:00:57.136 [main] INFO  c.g.e.EduApplication - [logStarting,55] - Starting EduApplication on PC-20190829ERVS with PID 12724 (started by Administrator in D:\新建文件夹\guli_parent)
+11:00:57.141 [main] INFO  c.g.e.EduApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+11:01:02.423 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8001"]
+11:01:02.424 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+11:01:02.424 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.27]
+11:01:02.604 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+11:01:03.043 [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+11:01:04.100 [main] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+11:01:05.067 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+11:01:06.584 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,147] - Context refreshed
+11:01:06.630 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,150] - Found 1 custom documentation plugin(s)
+11:01:06.756 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+11:01:07.305 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8001"]
+11:01:07.364 [main] INFO  c.g.e.EduApplication - [logStarted,61] - Started EduApplication in 11.184 seconds (JVM running for 14.864)

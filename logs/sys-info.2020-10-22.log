@@ -1,0 +1,37 @@
+17:29:37.716 [main] INFO  c.g.e.EduApplication - [logStarting,55] - Starting EduApplication on PC-20190829ERVS with PID 8684 (started by Administrator in D:\新建文件夹\guli_parent)
+17:29:37.770 [main] INFO  c.g.e.EduApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+17:29:42.212 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8001"]
+17:29:42.213 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:29:42.214 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.27]
+17:29:42.417 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:29:42.856 [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+17:29:45.492 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+17:30:42.860 [main] INFO  c.g.e.EduApplication - [logStarting,55] - Starting EduApplication on PC-20190829ERVS with PID 12588 (started by Administrator in D:\新建文件夹\guli_parent)
+17:30:42.865 [main] INFO  c.g.e.EduApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+17:30:45.387 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8001"]
+17:30:45.388 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:30:45.388 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.27]
+17:30:45.518 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:30:45.791 [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+17:30:46.885 [main] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+17:30:48.344 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+17:30:50.461 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,147] - Context refreshed
+17:30:50.619 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,150] - Found 1 custom documentation plugin(s)
+17:30:50.758 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+17:30:51.215 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8001"]
+17:30:51.343 [main] INFO  c.g.e.EduApplication - [logStarted,61] - Started EduApplication in 9.637 seconds (JVM running for 11.207)
+17:44:54.879 [main] INFO  c.g.e.EduApplication - [logStarting,55] - Starting EduApplication on PC-20190829ERVS with PID 6740 (started by Administrator in D:\新建文件夹\guli_parent)
+17:44:54.885 [main] INFO  c.g.e.EduApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+17:44:57.324 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8001"]
+17:44:57.325 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:44:57.325 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.27]
+17:44:57.442 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:44:57.710 [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+17:44:58.474 [main] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+17:44:59.166 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+17:44:59.925 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,147] - Context refreshed
+17:44:59.941 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,150] - Found 1 custom documentation plugin(s)
+17:44:59.981 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+17:45:00.304 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8001"]
+17:45:00.334 [main] INFO  c.g.e.EduApplication - [logStarted,61] - Started EduApplication in 6.435 seconds (JVM running for 8.322)
+17:56:45.277 [http-nio-8001-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
